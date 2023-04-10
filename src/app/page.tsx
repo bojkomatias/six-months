@@ -149,7 +149,7 @@ export default function Home() {
         <img src="/wap.jpeg" alt="" />
         <img src="/xd.jpeg" alt="" />
       </div>
-      <h2>MUCHO MUCHO!</h2>
+      <h2 className="text-right">CON MUCHO MUCHO AMOR - tu Matus</h2>
     </main>
   );
 }
